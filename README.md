@@ -1,7 +1,6 @@
 # PHP-Template
 A basic template and starting point for a PHP / Bootstrap website.
 
-![Screenshot](Screenshot.png)
 
 ## Contents
 ```
